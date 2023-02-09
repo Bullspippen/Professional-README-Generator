@@ -33,6 +33,7 @@ ${data.description}
 - [Usuage](#usage)
 - [Contribution](#contribution)
 - [Tests](#tests)
+- [Questions](#questions)
 - [License](#license)
 
 ## Installation
@@ -50,6 +51,12 @@ ${data.contribution}
 ## Tests
 
 ${data.tests}
+
+## Questions
+
+If you have any questions, I would kindly ask that you reach out to me on [GitHub](https://github.com/${data.username}).
+
+You may also reach me directly at ${data.email}.
 
 ## License
 
