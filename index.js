@@ -8,58 +8,58 @@ const questions = [
     {
         type: "input",
         name: "title",
-        message: "What is the title of your project?"
+        message: "What is the Title of your Project?"
     },
 
     {
         type: "input",
         name: "description",
-        message: "Provide a short description of your project"
+        message: "Provide a Short Description of your Project"
     },
 
     {
         type: "input",
         name: "installation",
-        message: "What command should be run to install dependencies?",
+        message: "What Command should be Run to Install Dependencies?",
         default: "npm install"
     },
 
     {
         type: "input",
         name: "usage",
-        message: "What are the usuge guidlines for this project?"
+        message: "What are the Usuge Guidlines for this Project?"
     },
 
     {
         type: "input",
         name: "contribution",
-        message: "What are the contribution guidlines for this project?"
+        message: "What are the Contribution Guidlines for this Project?"
     },
 
     {
         type: "input",
         name: "tests",
-        message: "What command should be run to perform tests?",
+        message: "What Command should be Run to Perform Tests?",
         default: "npm test"
     },
 
     {
         type: "list",
         name: "license",
-        message: "What type of license does this project have?",
+        message: "What Type of License does this Project have?",
         choices: ["MIT", "APACHE2.0", "BSD3", "GPL3.0", "none"]
     },
 
     {
         type: "input",
         name: "github",
-        message: "What is your github username?"
+        message: "What is your Github Username?"
     },
 
     {
         type: "input",
         name: "email",
-        message: "What is your email address?"
+        message: "What is your Email Address?"
     }
 
 ];
