@@ -29,12 +29,19 @@ ${renderLicenseBadge(data.license)}
 ${data.description}
 
 ## Table of Contents
+
 - [Installation](#installation)
+
 - [Usuage](#usage)
+
 - [Contributing](#contributing)
+
 - [Tests](#tests)
+
 - [Questions](#questions)
+
 - [License](#license)
+
 
 ## Installation
 
