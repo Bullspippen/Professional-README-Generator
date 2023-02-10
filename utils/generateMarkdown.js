@@ -38,7 +38,7 @@ ${data.description}
 
 ## Installation
 
-${date.installation}
+${data.installation}
 
 ## Usage
 
