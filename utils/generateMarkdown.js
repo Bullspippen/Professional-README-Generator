@@ -31,7 +31,7 @@ ${data.description}
 ## Table of Contents
 - [Installation](#installation)
 - [Usuage](#usage)
-- [Contribution](#contribution)
+- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 - [License](#license)
@@ -44,9 +44,9 @@ ${date.installation}
 
 ${data.usage}
 
-## Contribution
+## Contributing
 
-${data.contribution}
+${data.contributing}
 
 ## Tests
 
