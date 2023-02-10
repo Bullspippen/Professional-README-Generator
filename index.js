@@ -32,8 +32,8 @@ const questions = [
 
     {
         type: "input",
-        name: "contribution",
-        message: "What are the Contribution Guidlines for this Project?"
+        name: "contributing",
+        message: "What are the Contributing Guidlines for this Project?"
     },
 
     {
